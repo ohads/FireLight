@@ -14,7 +14,8 @@ class Tests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
+        // This is an example of a functional test case.        
+        FireLight.say(something: "sd")
         XCTAssert(true, "Pass")
     }
     

@@ -1,0 +1,16 @@
+PODS:
+  - FireLight (0.1.0)
+
+DEPENDENCIES:
+  - FireLight (from `../`)
+
+EXTERNAL SOURCES:
+  FireLight:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FireLight: b9ea38fc061d5272c16e50498c96c4ff156785d2
+
+PODFILE CHECKSUM: e9b68e34827862fbde3fccddcab67747f51387fb
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,24 @@
+{
+  "name": "FireLight",
+  "version": "0.1.0",
+  "summary": "FireLight here to help you say.",
+  "description": "This libraray is here to help you say things to the console.",
+  "homepage": "https://github.com/ohads/FireLight",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ohad@shultzu.com": "O.Shulz@f5.com"
+  },
+  "source": {
+    "git": "https://github.com/ohads/FireLight.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FireLight/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}

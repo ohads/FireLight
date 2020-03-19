@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FireLight'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of FireLight.'
+  s.version          = '1.0.1'
+  s.summary          = 'FireLight here to help you say.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,20 +18,20 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+This libraray is here to help you say things to the console.
                        DESC
 
-  s.homepage         = 'https://github.com/ohad@shultzu.com/FireLight'
+  s.homepage         = 'https://github.com/ohads/FireLight'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ohad@shultzu.com' => 'O.Shulz@f5.com' }
-  s.source           = { :git => 'https://github.com/ohad@shultzu.com/FireLight.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ohads/FireLight.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'FireLight/Classes/**/*'
-  
+  s.swift_versions = '4.0'
   # s.resource_bundles = {
   #   'FireLight' => ['FireLight/Assets/*.png']
   # }

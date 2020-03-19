@@ -1,0 +1,6 @@
+framework module FireLight {
+  umbrella header "FireLight-umbrella.h"
+
+  export *
+  module * { export * }
+}
