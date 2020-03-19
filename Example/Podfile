@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FireLight_Tests' do
+  pod 'FireLight', :path => '../'
+  
+  
+end
