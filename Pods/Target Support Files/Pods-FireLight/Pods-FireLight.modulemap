@@ -1,0 +1,6 @@
+framework module Pods_FireLight {
+  umbrella header "Pods-FireLight-umbrella.h"
+
+  export *
+  module * { export * }
+}
