@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "FireLight"
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
   spec.summary      = "Say Something."
 
   # This description is used to generate tags and improve search results.
